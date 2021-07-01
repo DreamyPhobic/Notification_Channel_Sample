@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Notification_Channel_Sample.iml" filepath="$PROJECT_DIR$/.idea/modules/Notification_Channel_Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/Notification_Channel_Sample.Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/Notification_Channel_Sample.Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Shared/Notification_Channel_Sample.Shared.iml" filepath="$PROJECT_DIR$/.idea/modules/Shared/Notification_Channel_Sample.Shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wearable/Notification_Channel_Sample.Wearable.iml" filepath="$PROJECT_DIR$/.idea/modules/Wearable/Notification_Channel_Sample.Wearable.iml" />
+    </modules>
+  </component>
+</project>
